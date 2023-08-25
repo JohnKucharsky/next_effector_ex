@@ -1,10 +1,4 @@
-import {
-  createEffect,
-  createEvent,
-  createStore,
-  merge,
-  sample,
-} from "effector";
+import { createEvent, createStore, merge, sample } from "effector";
 import {
   Session,
   sessionCreateFx,

@@ -21,7 +21,7 @@ const AppContent = () => {
 
   useEffect(() => {
     handlePageMount();
-  }, []);
+  }, [handlePageMount]);
 
   return (
     <div className={"parent"}>

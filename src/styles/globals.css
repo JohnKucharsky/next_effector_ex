@@ -53,7 +53,7 @@ body{
   user-select:none;
   outline:none;
   color:white;
-  background-color: #grey;
+  background-color: grey;
 }
 
 .message-item h3,.message-item p{
